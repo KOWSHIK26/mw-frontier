@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:glass_bottle",
+    "minecraft:kelp",
+    "minecraft:kelp",
+    "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "mw_frontier:oxygen_canister",
+    "count": 2
+  }
+}

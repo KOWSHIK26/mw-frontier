@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "mw_frontier",
+  "version": "${version}",
+  "name": "MW Frontier",
+  "description": "Space suits, oxygen and low-gravity vacuum zone (Module 1).",
+  "authors": [
+    "Kowshik"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.mwfrontier.MwFrontier"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
